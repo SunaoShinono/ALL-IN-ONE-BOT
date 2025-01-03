@@ -1,13 +1,13 @@
 {
-    "token": "",
+    "token": "MTI4NzYzNzA0ODQ5NjQ4ODQ2OQ.GJ3sP4.ueHnWuWi6wxmtzqoH7L1Mln41ewMQjCOs_iURs",
     "language": "en",
-    "prefix": "!",
-    "mongodbUri": "",
+    "prefix": "!!",
+    "mongodbUri": "mongodb+srv://Shinono:Sunao_Shinono@miku-bot.pbceb.mongodb.net/?retryWrites=true&w=majority&appName=Miku-Bot",
     "geniusToken": "0CHr9jtPjR7EKraXUVv6__8ELmEwFeUwt5vYAhk-is_fGOq-10-epdMzESkMPUnf",
     "excessCommands": {
         "utility": true,
         "other": true,
-        "hentai": true,
+        "hentai": false,
         "lavalink": true,
         "troll": true
     },
@@ -22,12 +22,12 @@
     },
      "lavalink": {
         "lavalink": {
-            "host": "lava.catfein.com",
-            "port": 4000,
-            "password": "catfein",
+            "host": "lavalink.jirayu.net",
+            "port": 13592,
+            "password": "youshallnotpass",
             "secure": false
         }
     }, 
-    "spotifyClientId": "f71a3da30e254962965ca2a89d6f74b9",
-    "spotifyClientSecret": "199a619d22dd4e55a4a2c1a7a3d70e63"
+    "spotifyClientId": "bddc81fcd0af46d9b05a278f8f9f9939",
+    "spotifyClientSecret": "ee11fa4a59bf4f64b5a6433839b49c02"
 }
